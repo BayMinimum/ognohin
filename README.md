@@ -2,7 +2,7 @@
 
 Memorizing Japanese words &amp; expression
 
-## [Basic Expressions](basic-expressions)
+## [Basic Expressions](#basic-expressions)
 
 - おはよう(ございます): 아침 인사
 - こんにちは: 점심 인사
@@ -25,7 +25,7 @@ Memorizing Japanese words &amp; expression
 - おやすみ(なさい): 잘 자요
 - おつかれ(さまでした): 수고하셨습니다
 
-## [Chapter 2](chapter-2)
+## [Chapter 2](#chapter-2)
 
 - はじめまして: 처음 뵙겠습니다
 - わちし: 나
